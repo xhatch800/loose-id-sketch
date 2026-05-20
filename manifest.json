@@ -1,0 +1,21 @@
+{
+  "name": "Loose-Id Sketch",
+  "short_name": "Loose-Id",
+  "description": "A mobile-first drawing prompt app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fdf8f0",
+  "theme_color": "#b85c38",
+  "icons": [
+    {
+      "src": "assets/froglogo_square.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/froglogo_square.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
